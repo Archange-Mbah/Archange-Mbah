@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Archange Mbah
+- 👋 Hi, GitHub
+-  I'm a computer Science Student passionate about programming and Web-developement
 
   
   - Take a  look at this joke😊
@@ -14,6 +15,8 @@
       }
     
  </p>  
+
+ if(me.whatYourAreLookingFor) then hire me.....😁
 <!---
 Archange Mbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
