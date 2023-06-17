@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Mrworld1world
+- 👋 Hi, I’m Archange Mbah
+- A God lover
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning ...computer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m always improving my skills in computer
+- 💞️ I’m 
+- 📫 How to reach me at mbaharchange@yahoo.com
 
 <!---
-Mrworld1world/Mrworld1world is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Archange Mbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
