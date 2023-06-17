@@ -11,6 +11,9 @@ public boolean whatYouAreLookingFor(String skill){
       }
     
       I think it will match😉
+
+      ![image](https://github.com/Archange-Mbah/Archange-Mbah/assets/94777263/c4856374-25b8-41d2-998c-9eaf704c38ae)
+
 <!---
 Archange Mbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
