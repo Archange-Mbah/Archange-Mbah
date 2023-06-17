@@ -1,19 +1,19 @@
 - 👋 Hi, I’m Archange Mbah
- look at this joke😊
-String t="yourTeam"
-String m="me"
 
-public boolean whatYouAreLookingFor(String skill){
-          for(int i=0; i<me.mySkills.length;i++){
-          if(skill==me.mySkills[i]) return true;
-          }
-       return false;
+  
+  - Take a  look at this joke😊
+   String t="yourTeam"
+   String m="me"
+
+
+ <p>public boolean whatYouAreLookingFor(String skill){    <br>
+          for(int i=0; i<me.mySkills.length;i++){         <br>
+          if(skill==me.mySkills[i]) return true; <br>
+          }  <br>
+       return false;  <br>
       }
     
-      I think it will match😉
-
-      ![image](https://github.com/Archange-Mbah/Archange-Mbah/assets/94777263/c4856374-25b8-41d2-998c-9eaf704c38ae)
-
+ </p>  
 <!---
 Archange Mbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
