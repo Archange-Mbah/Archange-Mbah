@@ -3,20 +3,24 @@
 
   
   - Take a  look at this joke😊
-   String t="yourTeam"
-   String m="me"
 
+   ``` java
+    String mySkills={"java","HTML","CSS","Bootstrap","Angular","javaScript"};
+      String w="the-skill-you-are-looking-for";
 
- <p>public boolean whatYouAreLookingFor(String skill){    <br>
-          for(int i=0; i<me.mySkills.length;i++){         <br>
-          if(skill==me.mySkills[i]) return true; <br>
-          }  <br>
-       return false;  <br>
+      public boolean match(String skill) {
+      for(int i=0;i<mysKills.size();i++){
+        if(mySkills.get(i).equals(skill)){
+          System.out.println("I have what your are looking for");
+          return true;
+        }
       }
-    
- </p>  
+      return false;
+    }
 
- if(me.whatYourAreLookingFor) then hire me.....😁
+
+   ```
+   
 <!---
 Archange Mbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
