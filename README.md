@@ -9,7 +9,7 @@
       String w="the-skill-you-are-looking-for";
 
       public boolean match(String skill) {
-      for(int i=0;i<mysKills.size();i++){
+      for(int i=0;i<mysKills.length;i++){
         if(mySkills.get(i).equals(skill)){
           System.out.println("I have what your are looking for");
           return true;
