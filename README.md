@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning programming
 - 🌱 I’m always improving my skills in computer
 - 💞️ I’m 
-- 📫 How to reach me at mbaharchange@yahoo.com
+  Reach me at  mbaharchange@yahoo.com
 
 <!---
 Archange Mbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
